@@ -1,0 +1,214 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1.3698630136986196,
+            "y": 0
+          },
+          "nodeIndex": "DIMDate",
+          "size": {
+            "height": 239.64383561643834,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 500.80204430399777
+          },
+          "nodeIndex": "DIM_Educators",
+          "size": {
+            "height": 149.21917808219177,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 301.28582548693021,
+            "y": 846.57534246575358
+          },
+          "nodeIndex": "DIM_Grades",
+          "size": {
+            "height": 215.53424657534242,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 895.15976042312116,
+            "y": 64.383561643835648
+          },
+          "nodeIndex": "DIM_Schools",
+          "size": {
+            "height": 325.1232876712329,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 304.40000000000009,
+            "y": 245
+          },
+          "nodeIndex": "FACT_PeopleEvents",
+          "size": {
+            "height": 387.31974202124889,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 633.81412106414894,
+            "y": 244.8736972704715
+          },
+          "nodeIndex": "FACT_SchoolData",
+          "size": {
+            "height": 366.77317379924517,
+            "width": 238.55172413793105
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1184.5027397260274,
+            "y": 592.39726027397262
+          },
+          "nodeIndex": "@SchoolMeasures",
+          "size": {
+            "height": 441.32876712328766,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 1178.6931506849319,
+            "y": 312.13698630136986
+          },
+          "nodeIndex": "@PeopleEventMeasures",
+          "size": {
+            "height": 245.09589041095887,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 1176.6931506849314,
+            "y": 0
+          },
+          "nodeIndex": "@FormatLabelMeasures",
+          "size": {
+            "height": 299.89041095890411,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1443.8520547945207,
+            "y": 520.54794520547955
+          },
+          "nodeIndex": "@DynamicMeasureTable_Axis1",
+          "size": {
+            "height": 163.01369863013696,
+            "width": 283
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1443.682191780822,
+            "y": 695.89041095890411
+          },
+          "nodeIndex": "@DynamicMeasureTable_Axis2",
+          "size": {
+            "height": 163.013698630137,
+            "width": 284
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 272.1013698630137
+          },
+          "nodeIndex": "DIM_Programs",
+          "size": {
+            "height": 152.32876712328766,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 690.29900896464392
+          },
+          "nodeIndex": "DIM_EventType",
+          "size": {
+            "height": 166.95890410958907,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1445.2547945205476,
+            "y": 873.97260273972609
+          },
+          "nodeIndex": "@LastRefresh",
+          "size": {
+            "height": 152,
+            "width": 277.83561643835606
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1430.7630136986302,
+            "y": 2.7397260273972961
+          },
+          "nodeIndex": "@KPISelection",
+          "size": {
+            "height": 167.06849315068493,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 1429.4506849315069,
+            "y": 183.56164383561642
+          },
+          "nodeIndex": "@DimensionSelection",
+          "size": {
+            "height": 157.47945205479454,
+            "width": 234
+          },
+          "zIndex": 16
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 73,
+      "pinKeyFieldsToTop": true,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
