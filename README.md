@@ -1,5 +1,5 @@
 # Marketing Engagements Dashboard
-![image]()
+![image](https://github.com/joelmsherman/Marketing-Engagement-Dashboard/blob/master/ReportImage.png)
 
 ## Background
 Brandship Inc is a print and digital media marketing firm with global reach.  The company's outreach team is responsible for generating and converting contacts into leads.  The team does this through a variety of engagement activities, and tracks a number of different data points in this effort.  Unfortunately, the data hasn't been accessible to management, making it difficult to do strategic planning and program evaluation.   
